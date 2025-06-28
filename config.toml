@@ -2,7 +2,7 @@ fork = true
 frame = "buttonless"
 srgb = true
 tabs = false
-vsync = false
+vsync = true
 title-hidden = true
 
 [font]
